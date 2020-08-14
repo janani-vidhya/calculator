@@ -81,6 +81,8 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.1.8"
+  dependencies:
+  sprintf: "^4.0.0"
   path:
     dependency: transitive
     description:
